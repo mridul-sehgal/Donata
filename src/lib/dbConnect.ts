@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import mongoose from "mongoose";
 
 type ConnectionObject = {
